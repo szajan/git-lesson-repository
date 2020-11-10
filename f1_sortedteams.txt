@@ -1,0 +1,10 @@
+Alpha Romeo
+Alpha Tauri
+Ferrari
+Haas
+McLaren
+Mercedes
+Racing Point
+Red Bull
+Renault
+Williams
